@@ -24,11 +24,11 @@ This Dictionary Web Application provides users with the ability to search for wo
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/dictionary-web-app.git
+    git clone https://github.com/KartikPanditaaa/Dictionary-web-Application.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd dictionary-web-app
+    cd dictionary-web-application
     ```
 3. Open `index.html` in your preferred web browser.
 
